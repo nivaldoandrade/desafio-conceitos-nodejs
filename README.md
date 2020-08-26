@@ -8,7 +8,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 # clonar o repositório
 git clone https://github.com/nivaldoandrade/desafio-conceitos-nodejs 
 
-# Instalar as dependência
+# Instalar as dependências
 yarn
 
 # Iniciar a aplicação
